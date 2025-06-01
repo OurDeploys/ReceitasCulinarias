@@ -1,23 +1,20 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+const nextConfig = {Add commentMore actions
   output: "export",
   trailingSlash: true,
-  skipTrailingSlashRedirect: true,
-  distDir: "out",
+
+
   eslint: {
     ignoreDuringBuilds: true,
   },
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+@@ -11,8 +13,11 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  assetPrefix: process.env.NODE_ENV === "production" ? "/ReceitasCulinarias" : "",
   basePath: process.env.NODE_ENV === "production" ? "/ReceitasCulinarias" : "",
-  env: {
-    NEXT_PUBLIC_BASE_PATH: process.env.NODE_ENV === "production" ? "/ReceitasCulinarias" : "",
-  },
+  assetPrefix: process.env.NODE_ENV === "production" ? "/ReceitasCulinarias/" : "",
+
+
+
 }
 
 module.exports = nextConfig
