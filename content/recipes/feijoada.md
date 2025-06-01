@@ -1,0 +1,33 @@
+---
+title: "Feijoada Completa"
+description: "O prato mais tradicional do Brasil! Feijoada completa com todos os acompanhamentos clássicos."
+image: "/placeholder.svg?height=400&width=600"
+category: "Pratos Principais"
+cuisine: "Brasileira"
+prepTime: "4 horas"
+servings: "8 pessoas"
+difficulty: "Difícil"
+tags: ["tradicional", "festa", "feijão", "carne"]
+ingredients:
+  - "500g de feijão preto"
+  - "300g de carne seca"
+  - "300g de costela de porco"
+  - "200g de linguiça calabresa"
+  - "200g de bacon"
+  - "150g de paio"
+  - "2 cebolas grandes"
+  - "4 dentes de alho"
+  - "2 folhas de louro"
+  - "Sal e pimenta a gosto"
+  - "Óleo para refogar"
+instructions:
+  - "Deixe o feijão de molho na véspera. Dessalgue as carnes salgadas."
+  - "Cozinhe o feijão em panela de pressão por 20 minutos."
+  - "Em uma panela grande, refogue a cebola e o alho no óleo."
+  - "Adicione todas as carnes e doure bem."
+  - "Acrescente o feijão com o caldo, as folhas de louro."
+  - "Cozinhe em fogo baixo por 2 horas, mexendo ocasionalmente."
+  - "Retire algumas conchas de feijão, amasse e retorne à panela para engrossar."
+  - "Ajuste o tempero e cozinhe por mais 30 minutos."
+  - "Sirva com arroz, couve refogada, farofa e laranja."
+---

@@ -1,0 +1,31 @@
+---
+title: "Coxinha de Frango"
+description: "Salgadinho brasileiro mais famoso! Coxinha crocante por fora e cremosa por dentro."
+image: "/placeholder.svg?height=400&width=600"
+category: "Aperitivos"
+cuisine: "Brasileira"
+prepTime: "1 hora e 30 minutos"
+servings: "20 coxinhas"
+difficulty: "Médio"
+tags: ["salgado", "festa", "frango", "frito"]
+ingredients:
+  - "2 xícaras de farinha de trigo"
+  - "2 xícaras de caldo de frango"
+  - "1 colher de sopa de manteiga"
+  - "300g de frango desfiado"
+  - "1 cebola pequena picada"
+  - "2 dentes de alho"
+  - "Sal, pimenta e temperos a gosto"
+  - "2 ovos batidos"
+  - "Farinha de rosca para empanar"
+  - "Óleo para fritar"
+instructions:
+  - "Refogue o frango desfiado com cebola, alho e temperos. Reserve."
+  - "Ferva o caldo de frango com manteiga e sal."
+  - "Adicione a farinha de uma vez e mexa vigorosamente até formar uma massa lisa."
+  - "Deixe esfriar e sove até ficar homogênea."
+  - "Abra a massa, coloque o recheio e modele as coxinhas."
+  - "Passe no ovo batido e depois na farinha de rosca."
+  - "Frite em óleo quente até dourar."
+  - "Escorra em papel absorvente e sirva quente."
+---
