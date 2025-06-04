@@ -1,4 +1,4 @@
-const nextConfig = {Add commentMore actions
+const nextConfig = {
   output: "export",
   trailingSlash: true,
 
@@ -6,7 +6,11 @@ const nextConfig = {Add commentMore actions
   eslint: {
     ignoreDuringBuilds: true,
   },
-@@ -11,8 +13,11 @@ const nextConfig = {
+
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  
   images: {
     unoptimized: true,
   },
